@@ -1,6 +1,6 @@
 {
-  "college": "Your College Name",
-  "code": "REPLACE_WITH_TOKEN",
+  "college": "Sri Krishna Arts and Science College",
+  "code": "2b1d8bd05669d477ba65",
   "labs": [
     { "name": "Computer Lab 1", "opens": "09:00", "closes": "11:00" },
     { "name": "Physics Lab", "opens": "11:30", "closes": "13:00" },
